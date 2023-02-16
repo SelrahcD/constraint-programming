@@ -3,4 +3,5 @@
 .ipynb_checkpoints/ConstraintProgramming-checkpoint.ipynb
 .ipynb_checkpoints/Sudoku-checkpoint.ipynb
 .ipynb_checkpoints/requirements-checkpoint.txt
-venv/
+venv/*
+.ipynb_checkpoints/*
