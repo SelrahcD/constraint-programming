@@ -3,7 +3,7 @@
 # Installation
 
 - python3
-- venv
+- [venv](https://docs.python.org/fr/3/tutorial/venv.html)
     - source venv/bin/activate         
 - pip
     - pip install -r requirements.txt
